@@ -47,11 +47,11 @@ Contribute on-chain for fair incentive and collaboration
 ![Pinnect.007.jpeg](/images/Pinnect.007.jpeg)
 
 ## Developers
-**Setsukousa**
-Well-known NFT influencer, tokenomics researcher, senior researcher in organizational design (import factor > 10), metaverse consultant at top art academy
+**Annie**
+(Dropout) CS Freshman @ UC Berkeley, ETH Denver NFT Track Award Winner, Canada National Book Award Winner, NCWIT Award Winner
 
 **Sloan_gw**
 Senior Web3 & tokenomics researcher, early cryptocurrency investors expert in build distributed systems of autonomy, trust, and collaboration
 
 ### Add Telegram and contribute with us!
-![Pinnect.008.jpeg](/images/Pinnect.008.jpeg)
+![Pinnect.008.png](/images/Pinnect.008.png)
