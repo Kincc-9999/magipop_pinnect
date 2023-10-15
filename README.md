@@ -4,8 +4,11 @@ Deck: https://docsend.com/view/zkpsurvwxkq9pq98
 ![Pinnect.001.jpeg](/images/Pinnect.001.jpeg)
 ## Solana GameKit Integrated
 Pinnect is poised to take full advantage of the Solana Games Kit, to go bigger, faster, and smarter in the realm of collaborative storytelling and interactive gaming.
+
 ![PinnectGameKit.png](/images/PinnectGameKit.png)
+
 ![Pinnect.002.jpeg](/images/Pinnect.002.jpeg)
+
 ## Pinnect contribute to Solana ecosystem with
 1. **Solana Creator Ecosystem**: By attracting **gamers and storytellers** to your platform, Pinnect can introduce **more users** to the Solana blockchain. This increased user adoption strengthens the Solana ecosystem, potentially leading to more participants in other Solana-powered projects and games.
 2. **Seamless Interoperability**: Solana's architecture, designed for interoperability, is perfectly aligned with **Pinnect's vision**. It allows for horizontal scalability while maintaining a shared state, ensuring that connecting Solana and gaming communities remains seamless. Gamers and storytellers can effortlessly move between Pinnect and other Solana-powered games, creating a cohesive and immersive experience.
