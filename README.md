@@ -5,7 +5,7 @@ Deck: https://docsend.com/view/zkpsurvwxkq9pq98
 ## Solana GameKit Integrated
 Pinnect is poised to take full advantage of the Solana Games Kit, to go bigger, faster, and smarter in the realm of collaborative storytelling and interactive gaming.
 
-![PinnectGameKit.png](/images/PinnectGameKit.png)
+![PinnectGameKit.png](/images/Pinnect_GameKit.png)
 
 ![Pinnect.002.jpeg](/images/Pinnect.002.jpeg)
 
@@ -14,7 +14,7 @@ Pinnect is poised to take full advantage of the Solana Games Kit, to go bigger, 
 2. **Seamless Interoperability**: Solana's architecture, designed for interoperability, is perfectly aligned with **Pinnect's vision**. It allows for horizontal scalability while maintaining a shared state, ensuring that connecting Solana and gaming communities remains seamless. Gamers and storytellers can effortlessly move between Pinnect and other Solana-powered games, creating a cohesive and immersive experience.
 3. **Empowering the Metaverse**: With Solana Games Kit's capabilities, Pinnect can usher in a new era of decentralized marketplaces, **cross-game item integration**, and **fully on-chain storytelling elements**. Users can seamlessly incorporate assets from other Solana-powered games into their **collaborative narratives**, creating a metaverse where storytelling knows no boundaries.
 
-![PInnectSynergy](/images/PInnectSynergy.png)
+![PInnectSynergy](/images/Pinnect_Synergy.png)
 ## Game-map Collaboration
 This page allows you to control the display of the map and its tags through filtering, sorting, and other methods to find the information you need.
 ![Pinnect.003.jpeg](/images/Pinnect.003.jpeg)
