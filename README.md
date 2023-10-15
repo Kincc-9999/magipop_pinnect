@@ -1,6 +1,8 @@
 # Pinnect
 Game-map collaboration, all for gammers, with Solana
+
 Deck: https://docsend.com/view/zkpsurvwxkq9pq98 
+
 ![Pinnect.001.jpeg](/images/Pinnect.001.jpeg)
 ## Solana GameKit Integrated
 Pinnect is poised to take full advantage of the Solana Games Kit, to go bigger, faster, and smarter in the realm of collaborative storytelling and interactive gaming.
