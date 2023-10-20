@@ -1,25 +1,23 @@
 # Pinnect
-Game-map collaboration, all for gammers, with Solana
+Game-map collaboration, all for gammers, with Ethereum
 
-Deck: https://docsend.com/view/zkpsurvwxkq9pq98 
+Deck: 
 
-![Pinnect.001.jpeg](/images/Pinnect.001.jpeg)
-## Solana GameKit Integrated
-Pinnect is poised to take full advantage of the Solana Games Kit, to go bigger, faster, and smarter in the realm of collaborative storytelling and interactive gaming.
+![Pinnect_001_intro](/images/Pinnect_001_intro.jpg)
+![Pinnect_002_UI](/images/Pinnect_002_UI.jpeg)
 
-![PinnectGameKit.png](/images/Pinnect_GameKit.png)
+## Pinnect contribute to Ethereum ecosystem with
+1. **Ethereum Creator Ecosystem**: By attracting **gamers and storytellers**, Pinnect can introduce **more users** to the Ethereum. This increased user adoption strengthens the Ethereum ecosystem, potentially leading to more participants in other Ethereum-powered projects and games.
+2. **Seamless Interoperability**: Ethereum's architecture, designed for interoperability, is perfectly aligned with **Pinnect's vision**. It allows for horizontal scalability while maintaining a shared state, ensuring that connecting Ethereum and gaming communities remains seamless. Gamers and storytellers can effortlessly move between Pinnect and other Ethereum-powered games, creating a cohesive and immersive experience.
+3. **Empowering the Metaverse**: With Ethereum 's capabilities, Pinnect can usher in a new era of decentralized marketplaces, **cross-game item integration**, and **fully on-chain storytelling elements**. Users can seamlessly incorporate assets from other Ethereum-powered games into their **collaborative narratives**, creating a metaverse where storytelling knows no boundaries.
 
-![Pinnect.002.jpeg](/images/Pinnect.002.jpeg)
+![Pinnect_003_Synergy](/images/Pinnect_003_Synergy.jpg)
 
-## Pinnect contribute to Solana ecosystem with
-1. **Solana Creator Ecosystem**: By attracting **gamers and storytellers** to your platform, Pinnect can introduce **more users** to the Solana blockchain. This increased user adoption strengthens the Solana ecosystem, potentially leading to more participants in other Solana-powered projects and games.
-2. **Seamless Interoperability**: Solana's architecture, designed for interoperability, is perfectly aligned with **Pinnect's vision**. It allows for horizontal scalability while maintaining a shared state, ensuring that connecting Solana and gaming communities remains seamless. Gamers and storytellers can effortlessly move between Pinnect and other Solana-powered games, creating a cohesive and immersive experience.
-3. **Empowering the Metaverse**: With Solana Games Kit's capabilities, Pinnect can usher in a new era of decentralized marketplaces, **cross-game item integration**, and **fully on-chain storytelling elements**. Users can seamlessly incorporate assets from other Solana-powered games into their **collaborative narratives**, creating a metaverse where storytelling knows no boundaries.
-
-![PInnectSynergy](/images/Pinnect_Synergy.png)
 ## Game-map Collaboration
 This page allows you to control the display of the map and its tags through filtering, sorting, and other methods to find the information you need.
-![Pinnect.003.jpeg](/images/Pinnect.003.jpeg)
+
+![Pinnect_004_Collab](/images/Pinnect_004_Collab.jpeg)
+
 Priority of feature requirements: Understandable but not obvious method
 1. Tag List: Display an evenly arranged list of all primary tags and their associated secondary tags. Clicking on any will dim it and no longer display its corresponding tag on the map. Clicking a primary tag will hide all the markers corresponding to its secondary tags.
 2. Show/Hide All Switch: This switch controls the visibility of all tags.
@@ -30,7 +28,8 @@ Priority of feature requirements: Understandable but not obvious method
 
 ## Tag Editing
 Editing interface for tags.
-![Pinnect.004.jpeg](/images/Pinnect.004.jpeg)
+
+![Pinnect_005_Tag](/images/Pinnect_005_Tag.jpeg)
 
 The layout, from top to bottom, is as follows:
 - Image and its submission button. (Optional)
@@ -50,16 +49,19 @@ The layout, from top to bottom, is as follows:
 
 ## Relationship Flow
 Relationship diagram of the current tag is highlighted. When another tag is clicked, a line between the current tag and the clicked tag is displayed, along with an adjacent edit box.
-![Pinnect.005.jpeg](/images/Pinnect.005.jpeg)
+
+![Pinnect_006_flow.jpeg](/images/Pinnect_006_flow.jpeg)
 
 The layout of the edit box, from top to bottom, is as follows:
 1. Direction and its option box: There are two types, preceding and following, similar to the arrowhead editing box at the end of the line in Keynote.
 2. Relationship and its option box: This can be connectors like "owns", "manages", "belongs to", "requires", etc.
 
-## Connect Wallet with cross-platform support on Solana
+## Connect Wallet with cross-platform support on Ethereum
 Contribute on-chain for fair incentive and collaboration
-![Pinnect.006.jpeg](/images/Pinnect.006.jpeg)
-![Pinnect.007.jpeg](/images/Pinnect.007.jpeg)
+
+![Pinnect_007_home](/images/Pinnect_007_home.jpg)
+
+![Pinnect_008_onchain](/images/Pinnect_008_onchain.jpeg)
 
 ## Developers
 **Annie Karen**
@@ -68,5 +70,9 @@ Contribute on-chain for fair incentive and collaboration
 **Sloan_gw**
 Senior Web3 & tokenomics researcher, early cryptocurrency investors expert in build distributed systems of autonomy, trust, and collaboration.
 
+**SuperJay**
+UC Berkeley sophomore studying CS & Stats, consulting pm in gaming industry, tech enthusiast on AI X Web3
+
 ### Add Telegram and contribute with us!
-![Pinnect.008.jpeg](/images/Pinnect.008.png)
+
+![Pinnect_009_team](/images/Pinnect_009_team.jpg)
