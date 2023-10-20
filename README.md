@@ -1,8 +1,6 @@
 # Pinnect
 Game-map collaboration, all for gammers, with Ethereum
 
-Deck: 
-
 ![Pinnect_001_intro](/images/Pinnect_001_intro.jpg)
 ![Pinnect_002_UI](/images/Pinnect_002_UI.jpeg)
 
@@ -74,5 +72,7 @@ Senior Web3 & tokenomics researcher, early cryptocurrency investors expert in bu
 UC Berkeley sophomore studying CS & Stats, consulting pm in gaming industry, tech enthusiast on AI X Web3
 
 ### Add Telegram and contribute with us!
+
+[Pinnect's Deck](https://docsend.com/view/p2wbtvhi7sz3qup5)
 
 ![Pinnect_009_team](/images/Pinnect_009_team.jpg)
