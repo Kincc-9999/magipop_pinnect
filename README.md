@@ -59,7 +59,7 @@ The layout of the edit box, from top to bottom, is as follows:
 1. Direction and its option box: There are two types, preceding and following, similar to the arrowhead editing box at the end of the line in Keynote.
 2. Relationship and its option box: This can be connectors like "owns", "manages", "belongs to", "requires", etc.
 
-## Connect Wallet with cross-platform support on Ethereum
+## Connect Wallet with cross-platform support
 Contribute on-chain for fair incentive and collaboration
 
 ![Pinnect_007_home](/images/Pinnect_007_home.jpg)
