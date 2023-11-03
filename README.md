@@ -14,19 +14,6 @@ For example, if Player A discovers an NPC called Loot #6813, and marks it on Pin
 - Creators use the Media Wallet when logging into Pinnect. **Story of the Day**
 - feature called "Story of the Day" where users on Pinnect can submit and view a featured story each day. This story gets tokenized and showcased in a special section. Each day, a new story is selected, tokenized, and featured.
 
-![Pinnect_002_UI](/images/Pinnect_002_UI.jpeg)
-
-## Story of the day!
-
-Recommend daily story for user which fits their preference the most.  **The AI framework support for the Pinnect platform is enhanced by** **MindsDB**
-
-![Pinnect_story-of-the-day](/images/Pinnect_story-of-the-day.jpeg)
-
-- Personalized Recommendation Engine: By integrating the new AI framework with MindsDB, a more accurate recommendation system is built to suggest stories or games that users may be interested in.
-- Application scenario: Use Vectara to provide personalized content recommendations for Pinnect users.
-- Implementation method: Analyze user behavior and preferences, and combine with Vectara to generate relevant article or post recommendations.
-
-
 ## Game-map Collaboration
 This page allows you to control the display of the map and its tags through filtering, sorting, and other methods to find the information you need.
 
@@ -84,9 +71,7 @@ Contribute on-chain for fair incentive and collaboration
 **Sloan_gw**
 Senior Web3 & tokenomics researcher, early cryptocurrency investors expert in build distributed systems of autonomy, trust, and collaboration.
 
-**SuperJay**
-UC Berkeley sophomore studying CS & Stats, consulting pm in gaming industry, tech enthusiast on AI X Web3
+**SetsuKousa**
+Master of Financial Physics, Metaverse Consultant of Art College. Research on the impact of large fluctuations on financial markets and the spatiotemporal dynamics of cryptocurrency markets, published in Chaos, Solitons & Fractals. Cryptocurrency Early Players
 
-### Add Telegram and contribute with us!
-
-![Pinnect_009_team](/images/Pinnect_009_team.jpg)
+![Pinnect_009_team](/images/Pinnect_009_annie.jpeg)
