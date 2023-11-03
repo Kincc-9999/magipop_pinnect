@@ -4,9 +4,11 @@ Add ideas pins to the map, Connecting PFP into a Narrative Worldview
 
 Pinnect is a narrative tool designed for on-chain gamefi. 
 
+A brand new game map marking method + content IP co-creation, contributing to Loot, Realms’ emergence in the industry!
+
 In pinnect, players can mark the plots they explore in the game world, simply like marking pins on a map. share their experience, and help others, every markers will be a NFT, which will ultimately converge into a unique story world co-created by all players .  
 
-For example, if Player A discovers an NPC called Loot #6813, and marks it on Pinnect's map, other players will have access to this information. hese players can then work together to explore even where this story is going in the future. And this would be a amazing experience that only a on-chain gamefi could do.
+For example, Players can use Loot NFT to choose different game maps (it may be famous games, or it may be brand-new original maps!) to participate in the game.
 
 ![Pinnect_001_intro](/images/Pinnect_001_intro.jpg)
 
