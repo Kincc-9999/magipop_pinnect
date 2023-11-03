@@ -1,15 +1,31 @@
 # Pinnect
-Game-map collaboration, all for gammers, with Ethereum
+
+Add ideas pins to the map, Connecting PFP into a Narrative Worldview
+
+Pinnect is a narrative tool designed for on-chain gamefi. 
+
+In pinnect, players can mark the plots they explore in the game world, simply like marking pins on a map. share their experience, and help others, every markers will be a NFT, which will ultimately converge into a unique story world co-created by all players .  
+
+For example, if Player A discovers an NPC called Loot #6813, and marks it on Pinnect's map, other players will have access to this information. hese players can then work together to explore even where this story is going in the future. And this would be a amazing experience that only a on-chain gamefi could do.
 
 ![Pinnect_001_intro](/images/Pinnect_001_intro.jpg)
+
+- Converts content into digital assets, including both fungible and non-fungible tokens (NFTs). Transforms story cards created on the map into NFTs.
+- Creators use the Media Wallet when logging into Pinnect. **Story of the Day**
+- feature called "Story of the Day" where users on Pinnect can submit and view a featured story each day. This story gets tokenized and showcased in a special section. Each day, a new story is selected, tokenized, and featured.
+
 ![Pinnect_002_UI](/images/Pinnect_002_UI.jpeg)
 
-## Pinnect contribute to Ethereum ecosystem with
-1. **Ethereum Creator Ecosystem**: By attracting **gamers and storytellers**, Pinnect can introduce **more users** to the Ethereum. This increased user adoption strengthens the Ethereum ecosystem, potentially leading to more participants in other Ethereum-powered projects and games.
-2. **Seamless Interoperability**: Ethereum's architecture, designed for interoperability, is perfectly aligned with **Pinnect's vision**. It allows for horizontal scalability while maintaining a shared state, ensuring that connecting Ethereum and gaming communities remains seamless. Gamers and storytellers can effortlessly move between Pinnect and other Ethereum-powered games, creating a cohesive and immersive experience.
-3. **Empowering the Metaverse**: With Ethereum 's capabilities, Pinnect can usher in a new era of decentralized marketplaces, **cross-game item integration**, and **fully on-chain storytelling elements**. Users can seamlessly incorporate assets from other Ethereum-powered games into their **collaborative narratives**, creating a metaverse where storytelling knows no boundaries.
+## Story of the day!
 
-![Pinnect_003_Synergy](/images/Pinnect_003_Synergy.jpg)
+Recommend daily story for user which fits their preference the most.  **The AI framework support for the Pinnect platform is enhanced by** **MindsDB**
+
+![Pinnect_story-of-the-day](/images/Pinnect_story-of-the-day.jpeg)
+
+- Personalized Recommendation Engine: By integrating the new AI framework with MindsDB, a more accurate recommendation system is built to suggest stories or games that users may be interested in.
+- Application scenario: Use Vectara to provide personalized content recommendations for Pinnect users.
+- Implementation method: Analyze user behavior and preferences, and combine with Vectara to generate relevant article or post recommendations.
+
 
 ## Game-map Collaboration
 This page allows you to control the display of the map and its tags through filtering, sorting, and other methods to find the information you need.
@@ -72,7 +88,5 @@ Senior Web3 & tokenomics researcher, early cryptocurrency investors expert in bu
 UC Berkeley sophomore studying CS & Stats, consulting pm in gaming industry, tech enthusiast on AI X Web3
 
 ### Add Telegram and contribute with us!
-
-[Pinnect's Deck](https://docsend.com/view/p2wbtvhi7sz3qup5)
 
 ![Pinnect_009_team](/images/Pinnect_009_team.jpg)
