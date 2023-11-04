@@ -68,8 +68,6 @@ Every 3 months, a themed event targeting one or multiple games will be hosted. D
 
 At the end of each season, a collaborative evaluation involving both the Pinnect and Loot communities will be conducted to vote for the 'Best Creation of the Season'. This initiative not only applauds the creativity and engagement of Loot holders but also amplifies the communal interaction and shared narratives that Pinnect aims to cultivate.
 
-![Pinnect_story_of_the_day](/images/Pinnect_story_of_the_day.png)
-
 ## Identity achievement based on Soul-bound NFT
 
 Aiming to create a more enriching and rewarding ecosystem, we propose an "Identity Achievement System" based on Soul-bound NFTs (SBT). This system is designed to recognize and reward the active engagement and contributions of Loot holders in the gaming narrative.
