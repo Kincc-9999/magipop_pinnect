@@ -1,5 +1,6 @@
-from fastapi import FastAPI, HTTPException, Depends, Security
+from fastapi import FastAPI, HTTPException, Depends, Security, APIRouter
 from fastapi.security import OAuth2PasswordBearer
+from web3 import Web3
 from pydantic import BaseModel
 from sqlalchemy import Column, Integer, String, create_engine, ForeignKey, Float, Boolean
 from sqlalchemy.ext.declarative import DeclarativeMeta, declarative_base
@@ -16,6 +17,7 @@ class MagipopMap(GenericContract):
     
     def detail_of(self, location_id: int):
         return self.call_function("detail_of", [location_id])
+
 
 
 magipop_map = MagipopMap(contract_hash)
@@ -58,6 +60,18 @@ class Location(Base):
     tags = Column(String)
     image = Column(String)
     is_on_chain = Column(Boolean, default=False)
+    
+class Character(Base):
+    __tablename__ = 'characters'
+
+    id = Column(Integer, primary_key=True, index=True)
+    nft_address = Column(String, index=True) # Address of the NFT
+    owner_address = Column(String, index=True) # Address of the owner of the NFT
+    attributes = Column(String) # JSON string of attributes
+    image_url = Column(String) # URL to the NFT image
+
+w3 = Web3(Web3.HTTPProvider('DATABASE_URL'))
+router = APIRouter()
 
 Base.metadata.create_all(bind=engine)
 
@@ -116,6 +130,29 @@ def send_data_to_chain():
         db_location.is_on_chain = True
         db.commit()
     return {"message": "success"}
+
+
+
+@router.post("/store_nft_attributes")
+def store_nft_attributes(nft_contract_address: str, token_id: int):
+    nft_contract = w3.eth.contract(address=nft_contract_address, abi=nft_contract_abi) # You need to define nft_contract_abi
+    nft_owner = nft_contract.functions.ownerOf(token_id).call()
+    nft_attributes = nft_contract.functions.tokenURI(token_id).call()
+
+    # Here you would normally fetch the actual metadata using the tokenURI
+    # For simplicity, let's assume nft_attributes is a JSON string of attributes
+
+    db = SessionLocal()
+    character = Character(
+        nft_address=nft_contract_address,
+        owner_address=nft_owner,
+        attributes=nft_attributes,
+        image_url="some_image_url" # You need to extract this from the NFT metadata
+    )
+    db.add(character)
+    db.commit()
+    db.refresh(character)
+    return {"character": character}
 
 def create_jwt_token(data: dict):
     expiration = datetime.datetime.utcnow() + datetime.timedelta(hours=1)
