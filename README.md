@@ -99,4 +99,4 @@ Senior Web3 & tokenomics researcher, early cryptocurrency investors expert in bu
 **SetsuKousa**
 Master of Financial Physics, Metaverse Consultant of Art College. Research on the impact of large fluctuations on financial markets and the spatiotemporal dynamics of cryptocurrency markets, published in Chaos, Solitons & Fractals. Cryptocurrency Early Players
 
-![Pinnect_009_team](/images/Pinnect_009_annie.jpeg)
+![Pinnect_009_team](/images/Pinnect_009_team.png)
