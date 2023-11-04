@@ -1,6 +1,6 @@
 # Pinnect
 
-## Introduction: Creation-map for Modular Loot NFT
+## Introduction: Idea-map for Modular Loot NFT
 
 Pinnect, developed by magipop, is poised to revolutionize collaborative storytelling within the Loot NFT ecosystem. It functions as a mapping tool that transcends traditional boundaries, transforming Loot NFTs into universal gaming passports. With Pinnect, players can map out their epic journeys across various game realms, pinning their adventures and weaving a collective narrative, with each tale immortalized as a unique NFT.
 
@@ -10,7 +10,7 @@ This platform also serves as a thriving community hub where creative contests un
 
 ![Pinnect_002_UI](/images/Pinnect_002_UI.jpeg)
 
-## Creation-map Collaboration
+## Idea-map Collaboration
 
 The Pinnect creation map combines play logs, shared feelings, and collaborative community adventures to make narratives more intuitive for all types of games.
 
