@@ -2,13 +2,13 @@
 
 ## Introduction: Idea-map collaboration for immersive real estate
 
-![Pinnect_001_intro](/images/Pinnect_001_intro.jpg)
-
 Pinnect is an interactive map platform designed for co-creating fantasy worlds. It allows everyone to join and add their own stories to an growing map, creating a shared history of different fantasy realms.
 
 For instance, gamers can craft game maps on Pinnect, pinning their play experiences for others to see. Similarly, history enthusiasts can design ancient maps and pin notable historical events and figures, effectively journeying through history.
 
 Pinnect fosters a unique blend of creativity and collaboration, enabling users to build and explore rich, diverse worlds together.
+
+![Pinnect_001_intro](/images/Pinnect_001_intro.jpg)
 
 ### Why pinnct is suitable for connecting people centred on TOKYO TORCH
 
@@ -19,7 +19,7 @@ Pinnect is an app that bridges the fantasy metaverse with the real world. It ena
 Our focus is to infuse Tokyo's rich history and culture into the modern cityscape. For instance, in Marunouchi, near Tokyo Torch, Pinnect users can visualize the Edo Castle fortifications from the Edo period and the development of daimyo residential areas. Additionally, stories from the Meiji era, such as the modern history of the Mitsubishi Group, become integral parts of the area's historical narrative on Pinnect. This innovative approach brings history to life, intertwining past and present in an immersive, digital experience.
 
 
-![Pinnect_002_UI](/images/Pinnect_002_UI.jpeg)
+![Pinnect_002_UI](/images/Pinnect_002_UI.jpg)
 
 ## Idea-map Collaboration
 
@@ -29,7 +29,7 @@ This fits right in with the modular idea, where players can tell the same story 
 
 The map-style interface lowers the barriers to sharing gameplay, where players can easily discover new game elements, quests, items, or player experiences associated with them. This collaborative map facilitates community-driven exploration and storytelling.
 
-![Pinnect_004_Collab](/images/Pinnect_004_Collab.jpeg)
+![Pinnect_004_Collab](/images/Pinnect_004_Collab.jpg)
 
 Priority of feature requirements: Understandable but not obvious method
 1. Tag List: Display an evenly arranged list of all primary tags and their associated secondary tags. Clicking on any will dim it and no longer display its corresponding tag on the map. Clicking a primary tag will hide all the markers corresponding to its secondary tags.
@@ -45,7 +45,7 @@ Tag editing allows for more than just map annotation. By bundling every 'n' tran
 
 Editing interface for tags.
 
-![Pinnect_005_Tag](/images/Pinnect_005_Tag.png)
+![Pinnect_005_Tag](/images/Pinnect_005_Tag.jpg)
 
 The layout, from top to bottom, is as follows:
 - Image and its submission button. (Optional)
