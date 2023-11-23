@@ -1,10 +1,22 @@
 # Pinnect
 
-## Introduction: Idea-map for Modular Loot NFT
+## Introduction: Idea-map collaboration for immersive real estate
 
-Pinnect can create maps for various Lootverse game. These maps allow for open collaborative storytelling, where NFT holders can connect the events and stories of their Loot NFTs to specific locations on the map, organized by different realms. Users can work together to expand upon these events and narratives and connect them with other map elements and stories, making it an engaging and interactive experience for all involved.
+Pinnect is an interactive map platform designed for co-creating fantasy worlds. It allows everyone to join and add their own stories to an growing map, creating a shared history of different fantasy realms.
 
-![Pinnect_001_intro](/images/Pinnect_001_intro.png)
+For instance, gamers can craft game maps on Pinnect, pinning their play experiences for others to see. Similarly, history enthusiasts can design ancient maps and pin notable historical events and figures, effectively journeying through history.
+
+Pinnect fosters a unique blend of creativity and collaboration, enabling users to build and explore rich, diverse worlds together.
+
+### Why pinnct is suitable for connecting people centred on TOKYO TORCH
+
+Imagine opening a mapping app near Tokyo Torch and seeing not just streets and buildings, but historical events from centuries ago.
+
+Pinnect is an app that bridges the fantasy metaverse with the real world. It enables users to view cyber events happening in real locations and fosters collaboration in the fantasy world, building consensus and trust for co-creating alternate realities.
+
+Our focus is to infuse Tokyo's rich history and culture into the modern cityscape. For instance, in Marunouchi, near Tokyo Torch, Pinnect users can visualize the Edo Castle fortifications from the Edo period and the development of daimyo residential areas. Additionally, stories from the Meiji era, such as the modern history of the Mitsubishi Group, become integral parts of the area's historical narrative on Pinnect. This innovative approach brings history to life, intertwining past and present in an immersive, digital experience.
+
+![Pinnect_001_intro](/images/Pinnect_001_intro.jpg)
 
 ![Pinnect_002_UI](/images/Pinnect_002_UI.jpeg)
 
@@ -12,7 +24,7 @@ Pinnect can create maps for various Lootverse game. These maps allow for open co
 
 The Pinnect creation map combines play logs, shared feelings, and collaborative community adventures to make narratives more intuitive for all types of games.
 
-This fits right in with the modular idea of Loot, where players can tell the same story on Pinnect's creation map in all realm-based games through the Loot NFT character system.
+This fits right in with the modular idea, where players can tell the same story on Pinnect's creation map in all games through the NFT character system.
 
 The map-style interface lowers the barriers to sharing gameplay, where players can easily discover new game elements, quests, items, or player experiences associated with them. This collaborative map facilitates community-driven exploration and storytelling.
 
@@ -51,37 +63,37 @@ The layout, from top to bottom, is as follows:
 3. AI duplication detection: when a user makes a submission, the content is analyzed to determine if it is a tag that already exists. If it is, a prompt should appear asking if this is a mistake, with two options: 'Yes, submit an updated version' or 'No, submit as a new version'. If 'No' is chosen, the submission should undergo backend review.
 
 ## Relationship Flow
-The relationship diagram captures the interconnections between various tags, enabling players to visualize the intricate narrative threads weaving through their Loot NFT attributes and the game world.
+The relationship diagram captures the interconnections between various tags, enabling players to visualize the intricate narrative threads weaving through their NFT attributes and the game world.
 
 ![Pinnect_006_flow.jpeg](/images/Pinnect_006_flow.jpeg)
 
 1. Direction and its option box: Two types are available, preceding and following, akin to the arrowhead editing box found at the end of a line in Keynote.
-2. Relationship and its option box: These can be connectors such as "owns," "manages," "belongs to," "requires," and more, fostering a dynamic narrative tapestry within the Loot universe.
+2. Relationship and its option box: These can be connectors such as "owns," "manages," "belongs to," "requires," and more, fostering a dynamic narrative tapestry within the universe.
 
 ## Best Creation of the Season
 
-Pinnect is engineered to bring out the storyteller in every Loot NFT holder by providing a platform to share in-game experiences illustrated on a map. Our operational ethos extends to orchestrating a synergistic event between the Pinnect and Loot communities, aimed at recognizing and celebrating creativity.
+Pinnect is engineered to bring out the storyteller in every NFT holder by providing a platform to share in-game experiences illustrated on a map. Our operational ethos extends to orchestrating a synergistic event between the Pinnect and communities, aimed at recognizing and celebrating creativity.
 
-Every 3 months, a themed event targeting one or multiple games will be hosted. During this period, Loot NFT holders are encouraged to delve into the designated games, unravel their stories, and share their journeys on Pinnect. This is not merely a venture into the gaming realm, but an invitation to share joys, inspire, and foster a stronger camaraderie among players.
+Every 3 months, a themed event targeting one or multiple games will be hosted. During this period, NFT holders are encouraged to delve into the designated games, unravel their stories, and share their journeys on Pinnect. This is not merely a venture into the gaming realm, but an invitation to share joys, inspire, and foster a stronger camaraderie among players.
 
-At the end of each season, a collaborative evaluation involving both the Pinnect and Loot communities will be conducted to vote for the 'Best Creation of the Season'. This initiative not only applauds the creativity and engagement of Loot holders but also amplifies the communal interaction and shared narratives that Pinnect aims to cultivate.
+At the end of each season, a collaborative evaluation involving both the Pinnect and communities will be conducted to vote for the 'Best Creation of the Season'. This initiative not only applauds the creativity and engagement of holders but also amplifies the communal interaction and shared narratives that Pinnect aims to cultivate.
 
 ## Identity achievement based on Soul-bound NFT
 
-Aiming to create a more enriching and rewarding ecosystem, we propose an "Identity Achievement System" based on Soul-bound NFTs (SBT). This system is designed to recognize and reward the active engagement and contributions of Loot holders in the gaming narrative.
+Aiming to create a more enriching and rewarding ecosystem, we propose an "Identity Achievement System" based on Soul-bound NFTs (SBT). This system is designed to recognize and reward the active engagement and contributions of holders in the gaming narrative.
 
 ![Pinnect_007_home](/images/Pinnect_007_home.png)
 
 Here's how the system operates:
 
-1. **Engagement Tracking:** Loot NFT holders' engagement, encompassing their activities, interactions, achievements, and contributions on Pinnect, will be diligently monitored and quantified.
+1. **Engagement Tracking:** NFT holders' engagement, encompassing their activities, interactions, achievements, and contributions on Pinnect, will be diligently monitored and quantified.
 2. **Level Progression:** Drawing from the gathered data, players will advance through distinct levels represented on their Soul-bound NFTs. This leveling framework serves as an on-chain manifestation of a player's odyssey and contributions, taking into account their participation in various games, interactions, unlocked achievements, and narratives shared on Pinnect.
 3. **Monthly Leaderboards:** To recognize and reward the most dedicated contributors, a monthly leaderboard will be established. Rankings will be determined based on the levels displayed on the Soul-bound NFTs.
-4. **Reward Structure:** Aligned with the Lootverse ethos, the rewards system will offer eligible players a range of incentives, including but not limited to:
+4. **Reward Structure:** Aligned with the metaverse ethos, the rewards system will offer eligible players a range of incentives, including but not limited to:
     - Physical rewards,
     - On-chain token rewards,
     - Prominent features in a monthly game-sharing compilation,
-    - And more, all tailored to resonate with the Loot community's collaborative storytelling spirit.
+    - And more, all tailored to resonate with the community's collaborative storytelling spirit.
 
 ![Pinnect_008_onchain](/images/Pinnect_008_onchain.jpeg)
 
