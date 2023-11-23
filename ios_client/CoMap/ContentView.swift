@@ -45,7 +45,7 @@ struct GameMapView: View {
             GeometryReader { geometry in
                 ZStack {
                     Color.black
-                    Image("map-background")
+                    Image("map-background-3")
                         .resizable()
                         .aspectRatio(contentMode: .fill)
                         .frame(width: geometry.size.width * zoomAmount, height: geometry.size.height * zoomAmount)
