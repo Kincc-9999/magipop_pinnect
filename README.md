@@ -2,6 +2,8 @@
 
 ## Introduction: Idea-map collaboration for immersive real estate
 
+![Pinnect_001_intro](/images/Pinnect_001_intro.jpg)
+
 Pinnect is an interactive map platform designed for co-creating fantasy worlds. It allows everyone to join and add their own stories to an growing map, creating a shared history of different fantasy realms.
 
 For instance, gamers can craft game maps on Pinnect, pinning their play experiences for others to see. Similarly, history enthusiasts can design ancient maps and pin notable historical events and figures, effectively journeying through history.
@@ -16,7 +18,6 @@ Pinnect is an app that bridges the fantasy metaverse with the real world. It ena
 
 Our focus is to infuse Tokyo's rich history and culture into the modern cityscape. For instance, in Marunouchi, near Tokyo Torch, Pinnect users can visualize the Edo Castle fortifications from the Edo period and the development of daimyo residential areas. Additionally, stories from the Meiji era, such as the modern history of the Mitsubishi Group, become integral parts of the area's historical narrative on Pinnect. This innovative approach brings history to life, intertwining past and present in an immersive, digital experience.
 
-![Pinnect_001_intro](/images/Pinnect_001_intro.jpg)
 
 ![Pinnect_002_UI](/images/Pinnect_002_UI.jpeg)
 
